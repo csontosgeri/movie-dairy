@@ -1,0 +1,352 @@
+[
+    {
+        "watchDate": "2025-06-02",
+        "year": "2016",
+        "review": "",
+        "genre": "Drama, Mystery, Sci-Fi",
+        "imdbRating": "7.9",
+        "id": "849035ee-0692-4cd7-ab4e-1e99e493481a",
+        "title": "Arrival",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-04-03",
+        "year": "2010",
+        "review": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "imdbRating": "8.8",
+        "id": "0b8db6ff-b98d-4c33-b51e-6181a0a710e2",
+        "title": "Inception",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-05-16",
+        "year": "2017",
+        "review": "Szuper",
+        "genre": "Action, Drama, Mystery",
+        "imdbRating": "8.0",
+        "id": "ee4ea44e-bc58-4845-ab52-01778e9f13b7",
+        "title": "Blade Runner 2049",
+        "userRating": 5
+    },
+    {
+        "watchDate": "2025-05-30",
+        "year": "1995",
+        "review": "",
+        "genre": "Crime, Drama, Mystery",
+        "imdbRating": "8.6",
+        "id": "ddacee87-6cb2-46f2-8100-18f21dd0655c",
+        "title": "Se7en",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-06-09",
+        "year": "1998",
+        "review": "",
+        "genre": "Adventure, Comedy, Drama",
+        "imdbRating": "6.7",
+        "id": "54e12b41-4d07-463f-a3e1-90e88d8afb00",
+        "title": "The Parent Trap",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-06-10",
+        "year": "2000",
+        "review": "",
+        "genre": "Comedy, Romance",
+        "imdbRating": "7.0",
+        "id": "9337d204-98af-4968-bee7-c20836d4d0b5",
+        "title": "Meet the Parents",
+        "userRating": 2
+    },
+    {
+        "watchDate": "2025-06-01",
+        "year": "2012",
+        "review": "Perfect",
+        "genre": "Action, Sci-Fi",
+        "imdbRating": "8.0",
+        "id": "400d3b9f-d9ad-4994-8641-27e6432fdfe6",
+        "title": "The Avengers",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-05-27",
+        "year": "2025",
+        "review": "",
+        "genre": "Action, Drama, Horror",
+        "imdbRating": "8.1",
+        "id": "24ccf80e-415c-4f24-be76-3746a52ccd45",
+        "title": "Sinners",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-06-07",
+        "year": "2025",
+        "review": "",
+        "genre": "Action, Crime, Drama",
+        "imdbRating": "7.0",
+        "id": "4a317cf3-7350-4c3c-9608-997b5b256508",
+        "title": "The Accountant 2",
+        "userRating": 2
+    },
+    {
+        "watchDate": "2025-06-08",
+        "year": "2024",
+        "review": "",
+        "genre": "Animation, Sci-Fi",
+        "imdbRating": "8.2",
+        "id": "b37abe74-7375-4f08-a56e-1c7d4e89e22f",
+        "title": "The Wild Robot",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-05-07",
+        "year": "2025",
+        "review": "",
+        "genre": "Action, Adventure, Crime",
+        "imdbRating": "7.6",
+        "id": "694e83a6-411b-44a2-9d1f-ddf7ae382564",
+        "title": "Thunderbolts*",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-06-01",
+        "year": "2018",
+        "review": "Perfect movie",
+        "genre": "Animation, Action, Adventure",
+        "imdbRating": "8.4",
+        "id": "f8071b77-ad59-446b-aae2-781d85c80ddd",
+        "title": "Spider-Man: Into the Spider-Verse",
+        "userRating": 5
+    },
+    {
+        "watchDate": "2025-06-06",
+        "year": "2018",
+        "review": "",
+        "genre": "Action, Adventure, Fantasy",
+        "imdbRating": "6.3",
+        "id": "7acacd43-feb1-4a0d-bd15-a21dd337a2e8",
+        "title": "Tomb Raider",
+        "userRating": 1
+    },
+    {
+        "watchDate": "2025-06-05",
+        "year": "2015",
+        "review": "",
+        "genre": "Comedy, Drama",
+        "imdbRating": "7.1",
+        "id": "ee5388cf-84f1-40bb-b883-061113922025",
+        "title": "The Intern",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-05-26",
+        "year": "1994",
+        "review": "",
+        "genre": "Crime, Drama",
+        "imdbRating": "8.8",
+        "id": "ac30e24b-47fb-45ae-836e-29677bedcd81",
+        "title": "Pulp Fiction",
+        "userRating": 5
+    },
+    {
+        "watchDate": "2025-05-29",
+        "year": "2012",
+        "review": "",
+        "genre": "Comedy, Drama, Western",
+        "imdbRating": "8.5",
+        "id": "cfe7b385-f851-4020-a6c1-e0e5cb25d481",
+        "title": "Django Unchained",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-06-05",
+        "year": "2013",
+        "review": "",
+        "genre": "Biography, Drama, Sport",
+        "imdbRating": "8.1",
+        "id": "a6beb390-af87-4381-b21d-5a8bde59a1f2",
+        "title": "Rush",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-06-05",
+        "year": "2023",
+        "review": "",
+        "genre": "Animation, Action, Adventure",
+        "imdbRating": "8.5",
+        "id": "8216058a-87be-4ce8-87e3-092f7cde390e",
+        "title": "Spider-Man: Across the Spider-Verse",
+        "userRating": 5
+    },
+    {
+        "watchDate": "2025-06-04",
+        "year": "2003",
+        "review": "",
+        "genre": "Action, Sci-Fi",
+        "imdbRating": "7.2",
+        "id": "11a240e6-2f5e-4f1e-888d-d81f76a9daa8",
+        "title": "The Matrix Reloaded",
+        "userRating": 2
+    },
+    {
+        "watchDate": "2025-06-04",
+        "year": "1983",
+        "review": "",
+        "genre": "Action, Adventure, Fantasy",
+        "imdbRating": "8.3",
+        "id": "cf71c381-516e-4680-8348-dbb10c32a516",
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-06-03",
+        "year": "2014",
+        "review": "",
+        "genre": "Comedy, Drama",
+        "imdbRating": "7.7",
+        "id": "0ce3e886-cdd1-41be-b8c0-6660529ca490",
+        "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-06-14",
+        "year": "2024",
+        "review": "",
+        "genre": "Drama, Horror, Sci-Fi",
+        "imdbRating": "7.3",
+        "id": "312dda84-02f3-4af0-96bd-7d0c6b340adc",
+        "title": "The Substance",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-06-13",
+        "year": "2023",
+        "review": "",
+        "genre": "Action, Adventure, Drama",
+        "imdbRating": "6.7",
+        "id": "6f2c509d-95db-49ee-b295-e3fb08fad2ee",
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "userRating": 2
+    },
+    {
+        "watchDate": "2025-06-12",
+        "year": "2022",
+        "review": "",
+        "genre": "Action, Adventure, Fantasy",
+        "imdbRating": "7.5",
+        "id": "7a6d57b2-fe08-4f87-a9b7-a18ea70990dc",
+        "title": "Avatar: The Way of Water",
+        "userRating": 1
+    },
+    {
+        "watchDate": "2025-06-13",
+        "year": "2019",
+        "review": "Perfect",
+        "genre": "Comedy, Drama",
+        "imdbRating": "7.6",
+        "id": "b62a1b0f-9c92-40c8-93da-34f68b72d321",
+        "title": "Once Upon a Time... in Hollywood",
+        "userRating": 5
+    },
+    {
+        "watchDate": "2025-06-08",
+        "year": "1987",
+        "review": "",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "imdbRating": "7.1",
+        "id": "b888fcb4-85ea-4cec-aa16-3b26ce2acc11",
+        "title": "Spaceballs",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-06-04",
+        "year": "2010",
+        "review": "Great!",
+        "genre": "Animation, Action, Adventure",
+        "imdbRating": "8.2",
+        "id": "47ed9193-c227-46c9-a454-4ab149c9bb7e",
+        "title": "How to Train Your Dragon",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-06-14",
+        "year": "1996",
+        "review": "Not the best",
+        "genre": "Comedy, Sport",
+        "imdbRating": "7.0",
+        "id": "630aaf54-5540-4395-9671-769c4e6c1a29",
+        "title": "Happy Gilmore",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-06-14",
+        "year": "2015",
+        "review": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "imdbRating": "7.8",
+        "id": "dd8494d6-afd6-4a6c-b7bb-c431a22325ed",
+        "title": "Star Wars: Episode VII - The Force Awakens",
+        "userRating": 2
+    },
+    {
+        "watchDate": "2025-06-08",
+        "year": "1997",
+        "review": "",
+        "genre": "Action, Adventure, Sci-Fi",
+        "imdbRating": "7.6",
+        "id": "85dc74b8-f967-45ea-a668-1a53c5e0a22a",
+        "title": "The Fifth Element",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-06-07",
+        "year": "2017",
+        "review": "Grewt",
+        "genre": "Action, Adventure, Drama",
+        "imdbRating": "7.4",
+        "id": "9713af14-37ec-496d-8e0e-6e6b49331098",
+        "title": "War for the Planet of the Apes",
+        "userRating": 4
+    },
+    {
+        "watchDate": "2025-06-14",
+        "year": "2006",
+        "review": "Very good",
+        "genre": "Action, Adventure, Thriller",
+        "imdbRating": "8.0",
+        "id": "7a6a9789-9b69-4f16-809d-590910dfada7",
+        "title": "Casino Royale",
+        "userRating": 5
+    },
+    {
+        "watchDate": "2025-06-05",
+        "year": "2009",
+        "review": "Mid",
+        "genre": "Action, Adventure, Fantasy",
+        "imdbRating": "7.9",
+        "id": "8b5d8265-f74d-4115-85c7-9faefc521c12",
+        "title": "Avatar",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-06-14",
+        "year": "2010",
+        "review": "Good",
+        "genre": "Animation, Action, Adventure",
+        "imdbRating": "8.2",
+        "id": "f281a82a-3492-493f-a9b7-eca098e25c8d",
+        "title": "How to Train Your Dragon",
+        "userRating": 3
+    },
+    {
+        "watchDate": "2025-06-16",
+        "year": "2000",
+        "review": "Cold",
+        "genre": "Drama",
+        "imdbRating": "8.3",
+        "id": "4a29f278-1ac6-4c5f-938d-d917caa7b593",
+        "title": "Requiem for a Dream",
+        "userRating": 4
+    }
+]
