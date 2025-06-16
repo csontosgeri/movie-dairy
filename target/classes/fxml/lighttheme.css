@@ -1,0 +1,63 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-background-color: #ffffff;
+}
+
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #222222;
+}
+
+.button {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #1976D2;
+}
+
+.table-view {
+    -fx-background-color: #f9f9f9;
+    -fx-border-color: #cccccc;
+    -fx-table-cell-border-color: #dddddd;
+}
+
+.table-column {
+    -fx-alignment: CENTER-LEFT;
+}
+
+.combo-box, .text-field, .date-picker {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 4;
+    -fx-padding: 5;
+    -fx-text-fill: #222222;
+}
+
+.slider {
+    -fx-control-inner-background: #eeeeee;
+}
+
+.slider .track {
+    -fx-background-color: #cccccc;
+}
+
+.slider .thumb {
+    -fx-background-color: #2196F3;
+}
+.table-row-cell:odd {
+    -fx-background-color: #ffffff;
+}
+
+.table-row-cell:even {
+    -fx-background-color: #f0f4f8;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #bbdefb;
+    -fx-text-fill: black;
+}
+
